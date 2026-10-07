@@ -1,5 +1,16 @@
 # Chełmica Parish CMS (Premium)
 
+## NOIZANA Ownership
+
+| Field | Value |
+|---|---|
+| Unit | **NOIZANA STUDIO** |
+| Project | **PARAFIA CHEŁMICA DUŻA** |
+| State | **PROTOTYPE** |
+| Source of truth | **PROYARA** |
+| Task tracking | **Linear** |
+| Implementation evidence | **GitHub** |
+
 [PL] Nowoczesny, "decoupled" system CMS klasy Premium dla Parafii w Chełmicy Dużej.
 [EN] Modern, decoupled Premium-class CMS for the Parish in Chełmica Duża.
 
